@@ -1,1 +1,1 @@
-- [Project1](https://github.com/Abdulbusari/OOPS.git)
+- [Project1](https://OOPS/abdul_busari_oojs_project_1/)
